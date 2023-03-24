@@ -26,3 +26,6 @@ The frontend should be accessible on
 The API should be availlable on 
 
 [http://localhost:5000/api/chat](http://localhost:5000/api/chat)
+
+### @TODO
+- Restore chat history from redis
